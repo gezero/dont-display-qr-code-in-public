@@ -1,0 +1,1 @@
+# dont-display-qr-code-in-public
